@@ -1,4 +1,4 @@
 package com.company;
 
-public class l1 {
+public class wfwefwe {
 }
