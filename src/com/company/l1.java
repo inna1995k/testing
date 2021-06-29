@@ -1,4 +1,4 @@
 package com.company;
 
-public class Inna {
+public class l1 {
 }
